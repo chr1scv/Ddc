@@ -1,0 +1,17 @@
+.App {
+  background-color: cadetblue;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    cursive;
+}
+
+@media (min-width: 478px) {
+  .card-group {
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+}
